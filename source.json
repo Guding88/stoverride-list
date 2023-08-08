@@ -212,5 +212,10 @@
         "paths": [
             "modules"
         ]
+    },
+    {
+        "owner": "Guding88",
+        "repo": "Script",
+        "branch": "main",
     }
 ]
