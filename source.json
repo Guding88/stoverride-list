@@ -217,5 +217,13 @@
         "owner": "Guding88",
         "repo": "Script",
         "branch": "main",
+    },
+    {
+        "owner": "psychopasss",
+        "repo": "ss_rule",
+        "branch": "main",
+        "paths": [
+            "Stash/override"
+        ]
     }
 ]
